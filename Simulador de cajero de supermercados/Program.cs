@@ -8,7 +8,7 @@ namespace supermercado
         {
             int inicio = 0;
 
-            Console.WriteLine("=== SIMULADOR DE CAJEROS DE SUPERMERCADO ===");
+            Console.WriteLine("Supermercado");
             Console.WriteLine("\n¿Desea iniciar la simulación?");
             Console.WriteLine("1. Si");
             Console.WriteLine("2. No");
