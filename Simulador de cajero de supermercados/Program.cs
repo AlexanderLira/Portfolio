@@ -44,7 +44,7 @@ namespace supermercado
             }
             else
             {
-                Console.WriteLine("\n=== Simulación cancelada ===");
+                Console.WriteLine("\nTerminada");
             }
         }
     }
